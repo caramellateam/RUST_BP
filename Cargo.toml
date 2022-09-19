@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  'dotenvhack',
+  'dotenvhack_impl',
+  'boilerplate',
+  'examplelib',
+  'programs/more'
+]
