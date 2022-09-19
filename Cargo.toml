@@ -1,7 +1,0 @@
-[workspace]
-
-members = [
-  'main',
-  'dotenvhack',
-  'dotenvhack_impl',
-]
